@@ -21,18 +21,35 @@ Pour exécuter ce projet localement :
    git clone [https://github.com/bryana08/Tp_inf222_blog.git](https://github.com/bryana08/Tp_inf222_blog.git)
 
 2.lancer le telechargement 
+
 npm install
 
 3. lancer le serveur
+
+
  node server.js
 
 4.Testez les routes via le navigateur ou curl sur : http://localhost:3000
 
 📊 Technologies utilisées
+
+
 ​Environnement : Node.js
+
+
 ​Framework : Express.js
+
+
 ​Format : JSON
+
+
 ​Méthodologie : CleeRoute
+
+
 ​Auteur : NONGNI TEMGOUA CHANNELLE BRYANA 
+
+
 Niveau : Informatique Niveau 2, UY1
+
+
 UE : INF 222 (Architectures de Services Internet)
